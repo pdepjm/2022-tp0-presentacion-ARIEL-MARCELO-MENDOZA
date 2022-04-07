@@ -6,9 +6,9 @@ Buenas soy ARIEL tengo 22 años y vivo en Lugano cerca del campus
 
   Trabajo en una panaderia.
   Mis deportes favorito es el futbol y boxeo. 
-  Amo mirar series y peliculas.
-  Mi lugar favorito es el Cine.
-
+  soy fanatico de San lorenzo.
+  Amo mirar series y peliculas e ir a la cancha
+  
   IMG_20180401_192346_1.jpg
 
 ![mi foto](IMG_20180401_192346_1.jpg)
